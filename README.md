@@ -36,7 +36,7 @@ Open `index.html` in any modern browser to see the responsive navigation menu ba
 
 ## Author
 
-CodeVibe
+Developed by Raza Zaheer GitHub: @razazaheer12
 
 ## License
 
